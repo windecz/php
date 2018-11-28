@@ -1,3 +1,3 @@
 # php
 This is first stage 
-Now I treing create a new site
+Now I traing create a new site
